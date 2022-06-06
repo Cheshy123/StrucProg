@@ -2,6 +2,7 @@
 toml
 numpy
 matplotlib
+os
 
 # development
 black

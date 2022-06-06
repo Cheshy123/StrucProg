@@ -1,0 +1,7 @@
+# main deps
+toml
+numpy
+matplotlib
+
+# development
+black
